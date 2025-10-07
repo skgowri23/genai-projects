@@ -1,6 +1,6 @@
 ### Motivation & Need
 
-Many people (including me) read newspaper **editorials and op-eds** for rich insights.  
+Many people (including me) read newspaper **editorials and Guest Speaker's articles** for rich insights.  
 However, when articles are written by top diplomats, policy experts, or academics, the English is often very sophisticated — making it difficult to quickly grasp the **core ideas**.  
 
 This inspired me to build this app:  
@@ -99,7 +99,9 @@ Before deployment, the pipeline was validated with:
 ---
 
 ### Requirements
-All dependencies are pinned in [`requirements.txt`](04_requirements-genai_news_article.txt).  
+All dependencies are pinned in 
+[requirements.txt](requirements.txt)
+
 
 **Key libraries include:**
 - `streamlit`, `requests`, `beautifulsoup4`, `lxml`  
